@@ -5,6 +5,7 @@
 **Level:** 20  
 **Background:** Spy  
 **Alignment:** Neutral Good
+
 **Age:** 37  
 **Gender:** Female  
 **Height:** 5'10"  
@@ -95,8 +96,6 @@
 - **Cunning and Calculating:** Uses her rogue skills to navigate complex social and physical challenges.
 - **Protective of Secrets:** Keen on keeping valuable information and artifacts secure.
 
-Certainly! Here’s an additional section for **Elara Thorne** that describes how she fits into the setting and the role she plays:
-
 ## Fitting into Elara’s Character
 
 ### Role in The Scholar’s Nook
@@ -109,7 +108,7 @@ Elara Thorne serves as the co-owner and primary security expert of The Scholar�
 - **Customer Relations:** Despite her stern exterior, Elara is charming and engaging when interacting with trustworthy clients. She uses her skills to create an atmosphere of trust and professionalism, ensuring that reputable customers feel valued and respected.
 - **Handling Trouble:** If a visitor causes trouble or attempts to deceive, Elara is quick to act. Her ability to blend into her surroundings and her expertise in handling dangerous situations ensure that any threats are swiftly dealt with. She can become an intimidating presence when necessary, employing her skills to manage any disruptions.
 
-## Integration with The Scholar’s Nook
+### Integration with The Scholar’s Nook
 
 - **Security Measures:** Elara employs a range of magical and physical security measures to protect the shop. Her knowledge of traps, alarms, and concealment methods is crucial in keeping the shop’s treasures safe from prying eyes and opportunistic thieves.
 - **Mysteries and Secrets:** Elara’s background as a spy and information broker means she has a wealth of knowledge about hidden agendas and secret dealings. She often acts as a resource for adventurers and scholars seeking information on obscure topics or ancient mysteries, using her skills to navigate complex scenarios and uncover hidden truths.
